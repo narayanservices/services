@@ -1,0 +1,45 @@
+body {
+  padding-top: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HERO */
+.hero {
+  background: linear-gradient(135deg, #1c1c1c, #333);
+  color: white;
+  padding: 120px 20px;
+}
+
+/* SECTIONS */
+.section {
+  padding: 80px 20px;
+}
+
+.section-title {
+  font-size: 34px;
+  font-weight: bold;
+  color: #c62828;
+}
+
+/* INFO CARDS */
+.info-card {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  height: 100%;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+}
+
+/* FOUNDER */
+.founder-card {
+  max-width: 720px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.15);
+}
+
+/* FOOTER */
+.footer {
+  background: #111;
+  color: #bbb;
+  padding: 18px;
+  font-size: 14px;
+}
